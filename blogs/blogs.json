@@ -1,0 +1,67 @@
+{
+  "aid": "kinaxis",
+  "url": "https://www.kinaxis.com/en/blog/main",
+  "modified": "2026-06-13",
+  "blogs": [
+    {
+      "title": "In data centers, every capacity decision is a billion-dollar bet",
+      "url": "https://www.kinaxis.com/en/blog/data-centers-every-capacity-decision-billion-dollar-bet",
+      "date": "2026-06-08",
+      "category": "Announcements"
+    },
+    {
+      "title": "Long-running AI agents for supply chain orchestration",
+      "url": "https://www.kinaxis.com/en/blog/long-running-ai-agents-supply-chain-orchestration",
+      "date": "2026-06-03",
+      "category": "Announcements"
+    },
+    {
+      "title": "Remix is already sparking incredible ideas",
+      "url": "https://www.kinaxis.com/en/blog/remix-already-sparking-incredible-ideas",
+      "date": "2026-06-04",
+      "category": "Hackathon"
+    },
+    {
+      "title": "Introducing Remix: Build what's next with Maestro",
+      "url": "https://www.kinaxis.com/en/blog/introducing-remix-build-whats-next-maestro",
+      "date": "2026-06-02",
+      "category": "Announcements"
+    },
+    {
+      "title": "Remix response: Wow. Just wow",
+      "url": "https://www.kinaxis.com/en/blog/remix-response-wow-just-wow",
+      "date": "2026-06-13",
+      "category": "Hackathon"
+    },
+    {
+      "title": "What helium reveals about the next chip shortage",
+      "url": "https://www.kinaxis.com/en/blog/what-helium-reveals-about-next-chip-shortage",
+      "date": "2026-05-26",
+      "category": "High tech & electronics"
+    },
+    {
+      "title": "Moving from AI buzz to decision velocity: What we saw at Gartner Supply Chain Symposium/Xpo North America",
+      "url": "https://www.kinaxis.com/en/blog/moving-ai-buzz-decision-velocity-what-we-saw-gartner-supply-chain-symposium",
+      "date": "2026-05-12",
+      "category": "AI"
+    },
+    {
+      "title": "How to orchestrate sourcing in a volatile world: Why concurrent decisions beat reactive shifts",
+      "url": "https://www.kinaxis.com/en/blog/how-orchestrate-sourcing-volatile-world-why-concurrent-decisions-beat-reactive-shifts",
+      "date": "2026-04-29",
+      "category": "Disruptions"
+    },
+    {
+      "title": "71% of supply chain leaders say they have accelerated AI deployment. Why now?",
+      "url": "https://www.kinaxis.com/en/blog/71-supply-chain-leaders-say-they-have-accelerated-ai-deployment-why-now",
+      "date": "2026-06-13",
+      "category": "Announcements"
+    },
+    {
+      "title": "Kinaxis is a Leader in the 2026 Gartner Magic Quadrant for Supply Chain Planning Solutions reports for Discrete Industries and Process Industries",
+      "url": "https://www.kinaxis.com/en/blog/kinaxis-leader-2026-gartner-magic-quadrant-supply-chain-planning-solutions-discrete-process-industries",
+      "date": "2026-03-23",
+      "category": "Announcements"
+    }
+  ]
+}
