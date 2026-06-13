@@ -1,0 +1,27 @@
+name: Kinaxis Plans and Pricing
+description: Kinaxis Maestro (formerly RapidResponse) is an enterprise supply chain orchestration platform delivered as a cloud SaaS solution. Pricing is entirely custom and negotiated per enterprise contract — no public self-serve tiers are published. Contracts typically run annual minimums in the six-figure range with multi-year commitments. Access to the REST APIs and Developer Studio is bundled with the platform license.
+url: https://www.kinaxis.com/en/contact-us
+plans:
+  - name: Maestro Enterprise
+    description: Full platform access for global supply chain orchestration including demand sensing, supply planning, scenario modeling, and API / Developer Studio access. Licensing is usage-based by planning users, modules enabled, and supply chain complexity. Requires a formal RFP or sales engagement.
+    pricing_model: Custom Enterprise Contract
+    pricing_url: https://www.kinaxis.com/en/contact-us
+    features:
+      - Concurrent supply chain planning across demand, supply, inventory, and S&OP
+      - Scenario modeling and digital twin simulation
+      - Demand sensing and AI-powered forecasting
+      - Supply risk management and control tower visibility
+      - Developer Studio access for custom application development
+      - REST API access for data integration and automation
+      - MCP Server integration for AI agent connectivity
+      - OAuth 2.0 secured API access
+      - Configurable roles and permissions governance
+      - Cloud-hosted on AWS / Azure infrastructure
+    contract_terms:
+      - Annual subscription; multi-year discounts available
+      - Implementation services (4–9 months) priced separately
+      - BYOL model for MCP Server on AWS Marketplace
+    notes:
+      - No free trial available
+      - No self-serve signup; all access requires Kinaxis sales engagement
+      - Enterprise contracts typically range from $100K to $500K+ annually

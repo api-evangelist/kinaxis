@@ -1,0 +1,26 @@
+name: Kinaxis FinOps
+description: Kinaxis Maestro operates as a fully managed cloud SaaS platform with no public consumption-based pricing model. All cost management occurs at the enterprise contract level negotiated directly with Kinaxis. There are no metered API call charges or usage-based billing tiers exposed to customers; costs are baked into the subscription license. Organizations integrating via the MCP Server on AWS Marketplace are subject to standard AWS infrastructure costs plus a BYOL arrangement with Kinaxis.
+url: https://www.kinaxis.com/en/contact-us
+cost_model:
+  type: Enterprise SaaS Subscription
+  billing_frequency: Annual
+  pricing_factors:
+    - Number of licensed planning users
+    - Modules enabled (demand, supply, inventory, S&OP, control tower, etc.)
+    - Supply chain complexity and data volume
+    - Implementation and professional services scope
+  aws_marketplace_mcp_server:
+    model: Bring Your Own License (BYOL)
+    subscription: Software subscription through AWS Marketplace
+    refund_policy: No free trial; no refunds; charges final upon agreement execution
+    url: https://aws.amazon.com/marketplace/pp/prodview-4osobep6cx3yc
+optimization_guidance:
+  - Negotiate multi-year contracts for volume discounts
+  - Scope modules carefully to avoid licensing unused planning applications
+  - Leverage Developer Studio and REST APIs within existing license to extend value without additional cost
+  - AWS infrastructure costs for MCP Server deployment are separate from Kinaxis license fees
+  - Engage Kinaxis professional services for 4-week architecture assessments to right-size deployments
+notes:
+  - No per-API-call charges documented
+  - No public freemium or trial tier
+  - Implementation projects (4–9 months) are priced separately from the platform license

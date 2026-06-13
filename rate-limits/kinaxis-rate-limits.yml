@@ -1,0 +1,16 @@
+name: Kinaxis API Rate Limits
+description: Kinaxis does not publish public rate limit specifications for the RapidResponse / Maestro REST APIs. Rate limits are governed by the enterprise platform configuration, the number of licensed planning users, and the contracted workload capacity. Customers access rate limit details through the Kinaxis Knowledge Network portal and direct support channels. The platform is designed for enterprise-grade, concurrent, high-volume planning operations.
+url: https://knowledge.kinaxis.com/s/
+notes:
+  - No publicly documented rate limits; governed by enterprise contract and tenant configuration
+  - Bulk Data Services REST endpoint handles large data loads above 200,000 records
+  - Real-time signal flows use REST endpoints alongside scheduled jobs
+  - OAuth 2.0 token-based access; tokens scoped by tenant and user role
+  - Tenant isolation enforced; concurrent planning workloads supported per SLA
+  - For rate limit details, contact Kinaxis support via the Knowledge Network
+authentication:
+  type: OAuth 2.0
+  notes:
+    - Client credentials flow (KINAXIS_CLIENT_ID, KINAXIS_CLIENT_SECRET, KINAXIS_BASE_URL)
+    - Supports integration with Amazon Cognito, Okta, and Microsoft Entra ID
+    - Roles and permissions enforced per RapidResponse governance model

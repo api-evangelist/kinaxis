@@ -1,0 +1,95 @@
+aid: kinaxis
+name: Kinaxis
+description: Kinaxis is a concurrent supply chain planning platform — branded Maestro (formerly RapidResponse) — that provides REST APIs for supply chain orchestration, scenario modeling, demand sensing, and supply planning across global manufacturing and distribution networks. The platform offers an AI-infused intelligence engine, digital twin simulation, and a Developer Studio for building custom applications and algorithms on top of the supply chain data fabric.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/kinaxis/refs/heads/main/apis.yml
+created: 2026-06-13
+modified: 2026-06-13
+specificationVersion: "0.19"
+tags:
+  - Supply Chain
+  - Supply Chain Planning
+  - Demand Sensing
+  - Scenario Modeling
+  - Supply Planning
+  - Inventory Optimization
+  - S&OP
+  - Control Tower
+  - Enterprise Software
+  - AI
+apis:
+  - aid: kinaxis:rapidresponse-rest-api
+    name: Kinaxis RapidResponse REST API
+    description: REST-based interface exposing the Kinaxis Maestro (RapidResponse) supply chain planning platform for data integration, process orchestration, and insight embedding. Enables reading and writing planning data, triggering what-if scenarios, synchronizing master and transactional data, running demand sensing and supply planning workflows, and embedding analytics into external applications. Secured with OAuth 2.0 and governed by RapidResponse role-based permissions.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://knowledge.kinaxis.com/s/
+    baseURL: https://rapidresponse.kinaxis.com/
+    tags:
+      - Supply Chain
+      - Supply Planning
+      - Demand Sensing
+      - Scenario Modeling
+      - REST API
+    properties:
+      - type: Documentation
+        url: https://knowledge.kinaxis.com/s/
+      - type: Authentication
+        url: https://knowledge.kinaxis.com/s/
+  - aid: kinaxis:developer-studio
+    name: Kinaxis Developer Studio
+    description: A low-code and code-first development environment embedded in the Kinaxis Maestro platform that enables building custom supply chain applications, algorithms, data models, integration jobs, visualizations, and reports. Supports Python-based algorithms and machine learning integration via API, and allows developers to certify and license custom Maestro applications through the Kinaxis Application Developer Program.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://www.kinaxis.com/en/developer-studio
+    baseURL: https://rapidresponse.kinaxis.com/
+    tags:
+      - Developer Studio
+      - Low-Code
+      - Custom Applications
+      - Supply Chain
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://www.kinaxis.com/en/developer-studio
+      - type: GettingStarted
+        url: https://knowledge.kinaxis.com/s/
+  - aid: kinaxis:mcp-server
+    name: Kinaxis MCP Server
+    description: A production-ready Model Context Protocol (MCP) server that provides AI agents and LLM-powered applications with standardized OAuth 2.0-secured access to Kinaxis Maestro supply chain planning data and capabilities. Available on AWS Marketplace under a BYOL subscription model. Exposes workbook data retrieval, scenario simulation, demand forecasting, and inventory optimization functions for integration with Amazon Bedrock, Okta, Azure Entra ID, and other AI agent platforms.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://aws.amazon.com/marketplace/pp/prodview-4osobep6cx3yc
+    baseURL: https://rapidresponse.kinaxis.com/
+    tags:
+      - MCP
+      - AI Agents
+      - Supply Chain
+      - AWS Marketplace
+      - OAuth 2.0
+    properties:
+      - type: Documentation
+        url: https://aws.amazon.com/marketplace/pp/prodview-4osobep6cx3yc
+      - type: AWSMarketplace
+        url: https://aws.amazon.com/marketplace/pp/prodview-4osobep6cx3yc
+common:
+  - type: Website
+    url: https://www.kinaxis.com/en
+  - type: Documentation
+    url: https://knowledge.kinaxis.com/s/
+  - type: GitHubOrg
+    url: https://github.com/Kinaxis
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/kinaxis
+  - type: Blog
+    url: https://www.kinaxis.com/en/blog/main
+  - type: Pricing
+    url: https://www.kinaxis.com/en/contact-us
+  - type: X
+    url: https://x.com/kinaxis
+  - type: Plans
+    url: plans/kinaxis-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/kinaxis-rate-limits.yml
+  - type: FinOps
+    url: finops/kinaxis-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
