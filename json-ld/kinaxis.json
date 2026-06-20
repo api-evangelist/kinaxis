@@ -5,7 +5,7 @@
   "name": "Kinaxis",
   "description": "Kinaxis is a concurrent supply chain planning platform — branded Maestro (formerly RapidResponse) — that provides REST APIs for supply chain orchestration, scenario modeling, demand sensing, and supply planning across global manufacturing and distribution networks. The platform offers an AI-infused intelligence engine, digital twin simulation, and a Developer Studio for building custom applications and algorithms on top of the supply chain data fabric.",
   "url": "https://www.kinaxis.com/en",
-  "logo": "https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg",
+  "logo": "https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg",
   "sameAs": [
     "https://github.com/Kinaxis",
     "https://www.linkedin.com/company/kinaxis",
