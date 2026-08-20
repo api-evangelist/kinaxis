@@ -28,6 +28,17 @@ tags:
   - S&OP
   - Control Tower
   - Enterprise Software
+  - Artificial Intelligence
+tags_raw:
+  - Supply Chain
+  - Supply Chain Planning
+  - Demand Sensing
+  - Scenario Modeling
+  - Supply Planning
+  - Inventory Optimization
+  - S&OP
+  - Control Tower
+  - Enterprise Software
   - AI
 apis:
   - aid: kinaxis:rapidresponse-rest-api
@@ -58,6 +69,12 @@ apis:
       - Low-Code
       - Custom Applications
       - Supply Chain
+      - Machine-Learning
+    tags_raw:
+      - Developer Studio
+      - Low-Code
+      - Custom Applications
+      - Supply Chain
       - Machine Learning
     properties:
       - type: Documentation
@@ -71,6 +88,12 @@ apis:
     humanURL: https://aws.amazon.com/marketplace/pp/prodview-4osobep6cx3yc
     baseURL: https://rapidresponse.kinaxis.com/
     tags:
+      - MCP
+      - AI Agents
+      - Supply Chain
+      - AWS Marketplace
+      - Authentication
+    tags_raw:
       - MCP
       - AI Agents
       - Supply Chain
