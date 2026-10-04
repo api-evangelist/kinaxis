@@ -40,6 +40,7 @@ tags:
   - Control Tower
   - Enterprise Software
   - Artificial Intelligence
+  - Canada
 tags_raw:
   - Supply Chain
   - Supply Chain Planning
@@ -51,6 +52,7 @@ tags_raw:
   - Control Tower
   - Enterprise Software
   - AI
+  - Canada
 apis:
   - aid: kinaxis:rapidresponse-rest-api
     name: Kinaxis RapidResponse REST API
@@ -80,13 +82,14 @@ apis:
       - Low-Code
       - Custom Applications
       - Supply Chain
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Developer Studio
       - Low-Code
       - Custom Applications
       - Supply Chain
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://www.kinaxis.com/en/developer-studio
