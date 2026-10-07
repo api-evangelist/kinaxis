@@ -1,3 +1,7 @@
+# Provenance stamped 2026-10-07 (roadmap#943): written by an API Evangelist sweep (undated — the file carries no date and git cannot supply one), not
+# harvested from the provider. `method: generated` so the economics campaign may replace it with a
+# dated, verbatim transcription; every figure below is unverified until it does.
+method: generated
 name: Kinaxis API Rate Limits
 description: Kinaxis does not publish public rate limit specifications for the RapidResponse / Maestro REST APIs. Rate limits are governed by the enterprise platform configuration, the number of licensed planning users, and the contracted workload capacity. Customers access rate limit details through the Kinaxis Knowledge Network portal and direct support channels. The platform is designed for enterprise-grade, concurrent, high-volume planning operations.
 url: https://knowledge.kinaxis.com/s/
