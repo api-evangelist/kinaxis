@@ -1,9 +1,21 @@
-generated: '2026-10-13'
+generated: '2026-10-20'
 method: searched
+source:
+- https://cloudsecurityalliance.org/star/registry
+- https://eucoc.cloud/en/public-register/list-of-adherent-services
+- https://zapier.com/apps/kinaxis/integrations
+- https://n8n.io/integrations/kinaxis/
+- https://composio.dev/toolkits/kinaxis
+- https://monid.ai/tools/kinaxis
 checked:
 - https://azuremarketplace.microsoft.com/
 - https://cloudsecurityalliance.org/star/registry
 - https://eucoc.cloud/en/public-register/list-of-adherent-services
+- https://composio.dev/toolkits/kinaxis
+- https://monid.ai/tools/kinaxis
+- https://n8n.io/integrations/kinaxis/
+- https://zapier.com/apps/kinaxis/integrations
+summary: null
 marketplace_apps: []
 edges:
 - partner_name: Microsoft Azure Marketplace
@@ -52,6 +64,4 @@ edges:
     detected: '2026-10-20'
   detected_by: sweep-compliance-assurance.py
   first_seen: '2026-10-20'
-source:
-- https://cloudsecurityalliance.org/star/registry
-- https://eucoc.cloud/en/public-register/list-of-adherent-services
+templates: []

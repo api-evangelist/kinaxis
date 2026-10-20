@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Contact: mailto:security@kinaxis.com
+Encryption: https://www.kinaxis.com/.well-known/PUBLIC-2020-security-at-kinaxis-dot-com.asc
+Acknowledgements: 
+Policy: https://www.kinaxis.com/en/resources/security/
+Hiring: https://www.kinaxis.com/en/about/kinaxis-careers/
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJhaHOIAAoJEKKGoDF3qSp+0KMP/2pKPvm8kWjyY41K31C5dF/C
+x1FEc7sPCD48GFETkjscBa9NCfSv+qQgl/BhOg6z9OOIXRU0l4gfzUbz45V6nNbx
+GPMoxa11OQAgkwuzq5odMCZlar9d7FlvDJkJl0t6KBstXRvdxbqD3Z5SXdR5c1WS
+nT5yTDf+QSHtecl3a5JMmveeupuCSOSmfW+hm71Za4fhqySNPKvIMfBfNxHZg49n
+9z3DuRSgScDWJncBabzmzYNLeis9XhGyXSNMQ1NS3nkT1c273PRXS78z925RymAa
+/3eZzlEM1UJsvxCtETj793Ues30HLhKdfgHqCV6n3di4syRieQ7VYQEZSKZRmXMK
+CPg1bQwjohCpoAKQwqjBnLFXIao2+r4dVw5KXby+CbF1tIgeviAzIhvEnqUwAR/x
+SpWTClhfeVM9+efa+S7I0l7CgCeMBdiyTNJRUPpvCdY7n2YHVtJ6A/WDz3WeDIeJ
+QaM8j6zWBTYvofCTLFtQ08fasL5gA6tzTqvA07K4qHCa/QsjmAJ13aDuAqY98QU0
+nJnUZqaL0fDWrrJaK6qOv7oIpz53SeR6N+eKTbbWFk2GbpNjZx8tJdzUPqrHWrwH
+X8ZK6GSJdHfAXaXEfy2MhQ+4HmJzrxDq6AUn/EIkQNCo01Zk+COQXJ9mckK+tKwI
+svgL6+ytBAk6NN8wyetZ
+=dxLq
+-----END PGP SIGNATURE-----

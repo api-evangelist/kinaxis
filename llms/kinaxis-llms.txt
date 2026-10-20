@@ -1,0 +1,44 @@
+# Kinaxis.com
+> Kinaxis provides an AI-infused supply chain orchestration platform, Maestro. This document outlines key resources to help AI models understand our products, solutions, and company information.
+
+## Resources
+- [Sales and Operations Planning (S&OP)](https://www.kinaxis.com/en/sop): Answers common questions on what is sales and operations planning (S&OP).
+- [AI in Supply Chain](https://www.kinaxis.com/en/what-ai-supply-chain-management): Answers common questions on what is supply chain management.
+- [Concurrent Planning](https://www.kinaxis.com/en/what-concurrent-planning): Answers common questions on what is concurrent planning.
+- [Demand Planning](https://www.kinaxis.com/en/demand-planning-faqs): Answers common questions on what is demand planning.
+- [Inventory Optimization](https://www.kinaxis.com/en/inventory-optimization): Answers common questions on what is inventory optimization.
+- [Supply Chain Control Tower](https://www.kinaxis.com/en/supply-chain-control-tower): Answers common questions on what is supply chain control tower.
+- [Supply Chain Management](https://www.kinaxis.com/en/what-supply-chain-management): Answers common questions on what is supply chain management.
+- [Supply Chain Orchestration](https://www.kinaxis.com/en/supply-chain-orchestration): Answers common questions on what is supply chain orchestration.
+- [Supply Chain Planning](https://www.kinaxis.com/en/supply-chain-planning): Answers common questions on what is supply chain planning.
+- [Supply Chain Software](https://www.kinaxis.com/en/supply-chain-software): Answers common questions on what is supply chain software.
+- [Supply Chain Transformation](https://www.kinaxis.com/en/supply-chain-transformation): Answers common questions on what is supply chain transformation.
+- [Supply Planning](https://www.kinaxis.com/en/what-supply-planning): Answers common questions on what is supply planning.
+- [Tariffs](https://www.kinaxis.com/en/what-tariffs): Answers common questions on what are tariffs and their impact on supply chains.
+- [Resource Centre](https://www.kinaxis.com/en/resources): Keep current with supply chain white papers, research reports, eBooks and more.
+
+
+## Products & Solutions
+- [Maestro Platform](https://www.kinaxis.com/en/solutions/platform): An overview of our flagship concurrent planning platform.
+- [Kinaxis Solutions](https://www.kinaxis.com/en/solutions): A listing of all Kinaxis solutions.
+- [Demand Planning](https://www.kinaxis.com/en/solutions/demand-planning): Details on our demand planning solution for accurate forecasting.
+- [Supply Planning](https://www.kinaxis.com/en/solutions/supply-planning): Information on our supply planning capabilities for optimizing inventory and production.
+- [Sales and Operations Planning (S&OP)](https://www.kinaxis.com/en/solutions/sales-and-operations-planning): Content on how our platform supports S&OP processes.
+## Technical Resources
+- [API Documentation](https://www.kinaxis.com/en/api-documentation): Access to our developer documentation for integrating with the Kinaxis platform.
+- [Knowledge Base](https://support.kinaxis.com/knowledge-base): A collection of articles and guides on using Kinaxis products.
+## Company & Resources
+- [About Us](https://www.kinaxis.com/en/company/about-kinaxis): Information about the company's history, mission, and leadership.
+- [Press Releases](https://www.kinaxis.com/en/company/news/press-releases): Our latest announcements and news.
+- [Careers](https://www.kinaxis.com/en/company/careers): Opportunities to work at Kinaxis.
+## Optional
+- [Blog](https://www.kinaxis.com/en/blog): A blog with articles on supply chain trends, insights, and best practices.
+- [Events](https://www.kinaxis.com/en/events): Information on upcoming events and webinars.
+
+## Sitemap
+https://www.kinaxis.com/sitemap.xml
+https://www.kinaxis.com/sitemaps/news/sitemap.xml
+
+## Contact
+
+- [Contact Page](https://www.kinaxis.com/en/contact-us): Reach out for solution inquiries, support, partnerships, investor relations, careers and media relations
